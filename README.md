@@ -28,6 +28,36 @@ While we hope people would come to this site out of their own curiosity and desi
 
 
 
+
+
 ## README tutorial
 
 This is a README file (.md)
+
+
+### Use of the # tag
+
+You can use a # tag at the beginning of a line to make a heading, one # makes your heading
+# BIG,
+while adding multiple #'s will make your heading
+### smaller
+up to a total of 6 #'s, where it will me the
+###### smallest
+
+This gives you the opportunity to put emphasis and structure into your project description, and guides you if you're trying to understand somebody else's project.
+
+
+### Why do README's exist?
+
+This file should be first thing you write when you create a repository, and the first thing you read when you open somebody else's repo. It can be very basic to start, but you want to make sure it's a professional portal to your project once there's code to back it up. Think of this file as the resume to your code base, or the elevator pitch to your project. If you have multiple people contributing to the same repository, you can have each person contribute their section, but this file is intended to be brief.
+
+
+### Final Thoughts
+
+Understanding what README's actually look like and represent is often an aquired skill. The best way to gain this experience is to explore open source projects on GitHub and other platforms and read their descriptions. This may also open the doors to finding projects you'd like to contribute to in the future! Whatever way you prefer to practice this skill, enjoy doing it. If for nothing else, they don't get bugs!
+
+
+
+
+Best wishes
+~Kyle and the GitGoing project team
