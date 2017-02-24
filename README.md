@@ -59,4 +59,4 @@ Understanding what README's actually look like and represent is often an aquired
 
 
 
-##### Best wishes   ~Kyle and the GitGoing project team
+###### Best wishes   ~Kyle and the GitGoing project team
