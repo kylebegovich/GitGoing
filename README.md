@@ -41,7 +41,7 @@ You can use a # tag at the beginning of a line to make a heading, one # makes yo
 # BIG,
 while adding multiple #'s will make your heading
 ### smaller
-up to a total of 6 #'s, where it will me the
+up to a total of 6 #'s, where it will be the
 ###### smallest
 
 This gives you the opportunity to put emphasis and structure into your project description, and guides you if you're trying to understand somebody else's project.
@@ -59,5 +59,4 @@ Understanding what README's actually look like and represent is often an aquired
 
 
 
-Best wishes
-~Kyle and the GitGoing project team
+##### Best wishes   ~Kyle and the GitGoing project team
